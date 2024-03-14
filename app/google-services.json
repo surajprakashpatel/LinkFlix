@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62850230226",
+    "project_id": "linkflix-23681",
+    "storage_bucket": "linkflix-23681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62850230226:android:0479e97f570fe5984e4a0b",
+        "android_client_info": {
+          "package_name": "com.srsoft.linkflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWwFmiqaCppZ9Pi0d_2QshzX7jkQmWug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
